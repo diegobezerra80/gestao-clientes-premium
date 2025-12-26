@@ -1,0 +1,6 @@
+id,Nome,Conta,Cartão,Limite_Cartao,Classificacao,News
+1,Ana Silva,12345-6,**** 4587,2500,Padrao,
+2,Bruno Costa,98765-4,**** 9123,10000,Premium,"Olá, Bruno Costa! Agradecemos imensamente por sua confiança e por ser nosso cliente premium. É um grande prazer tê-lo conosco!"
+3,Carla Souza,54321-9,**** 3344,9000,Premium,"Olá, Carla Souza! Agradecemos imensamente por sua confiança e por ser uma de nossas clientes premium. É um grande prazer tê-la conosco!"
+4,Diego Lima,67890-1,**** 7766,3000,Padrao,
+5,Eduarda Rocha,11223-8,**** 9901,10000,Premium,"Olá, Eduarda Rocha! Agradecemos imensamente por sua confiança e parceria como nossa cliente premium. É um privilégio tê-la conosco!"

@@ -1,0 +1,7 @@
+id,Nome,Conta,Cartão,Limite_Cartao,Classificacao
+1,Ana Silva,12345-6,**** 4587,2500,Padrao
+2,Bruno Costa,98765-4,**** 9123,6000,Padrao
+3,Carla Souza,54321-9,**** 3344,9000,Premium
+4,Diego Lima,67890-1,**** 7766,3000,Padrao
+5,Eduarda Rocha,11223-8,**** 9901,5000,Padrao
+	
